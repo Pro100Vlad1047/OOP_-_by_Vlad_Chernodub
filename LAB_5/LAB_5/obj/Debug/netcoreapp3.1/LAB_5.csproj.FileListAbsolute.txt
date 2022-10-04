@@ -1,0 +1,14 @@
+F:\C#\LAB_5\LAB_5\bin\Debug\netcoreapp3.1\LAB_5.exe
+F:\C#\LAB_5\LAB_5\bin\Debug\netcoreapp3.1\LAB_5.deps.json
+F:\C#\LAB_5\LAB_5\bin\Debug\netcoreapp3.1\LAB_5.runtimeconfig.json
+F:\C#\LAB_5\LAB_5\bin\Debug\netcoreapp3.1\LAB_5.runtimeconfig.dev.json
+F:\C#\LAB_5\LAB_5\bin\Debug\netcoreapp3.1\LAB_5.dll
+F:\C#\LAB_5\LAB_5\bin\Debug\netcoreapp3.1\LAB_5.pdb
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.csproj.AssemblyReference.cache
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.AssemblyInfoInputs.cache
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.AssemblyInfo.cs
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.csproj.CoreCompileInputs.cache
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.dll
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.pdb
+F:\C#\LAB_5\LAB_5\obj\Debug\netcoreapp3.1\LAB_5.genruntimeconfig.cache
